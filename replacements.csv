@@ -1,0 +1,10 @@
+original, replacement
+Ada Lovelace,Author A
+Independent researcher,Institution A
+ada@example.com,author_a@example.com
+Katherine Johnson,Author B
+NASA,Institution B
+katherine_johnson@nasa.gov,author_b@example.com
+irb@nasa.gov,irb@example.com
+https://osf.io/12345/,https://osf.io/BLINDED/
+https://github.com/blah,https://example.com
