@@ -1,6 +1,6 @@
 # accecare: Remove identifying information from manuscripts
 
-**ac•ce•ca•re**&ensp;`/'attʃeka:re/`&ensp;*verb*&ensp;(Italian)&emsp;&emsp;**1** "to make blind"
+**ac•ce•ca•re**&ensp;/ˌatʃːekˈaːre/&ensp;*verb*&ensp;(Italian)&emsp;&emsp;**1** "to make blind"
 
 ---
 
