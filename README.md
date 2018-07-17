@@ -31,7 +31,7 @@ To create a blinded manuscript, you can either edit [`example.md`](example.md) b
 ./accecare.py replacements.csv example.md | pandoc -s --template templates/author_info.html5 -o output/example_blinded.html
 ```
 
-This creates [a lovely anonymized manuscript](https://cdn.rawgit.com/andrewheiss/accecare/a0fbb937/output/example_blinded.html)
+This creates [a lovely anonymized manuscript](https://cdn.rawgit.com/andrewheiss/accecare/a0fbb937/output/example_blinded.html).
 
 ## Attenzione!
 
